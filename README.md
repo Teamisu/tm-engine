@@ -49,7 +49,7 @@ Credits to [ioquake](https://github.com/ioquake/ioq3) & [quake3e (For Vulkan sup
 
 # License
 
-You might notice, that there is a proipretary license attached to this project. This is because the engine will not be open source in the current state it is in. It will be in the GPL2 license when everything is complete and documented. Please don't think this is "closed source garbage," this is more of a move so that nothing comes out and is protected.
+You might notice, that there is a proprietary license attached to this project. This is because the engine will not be open source in the current state it is in. It will be in the GPL2 license when everything is complete and documented. Please don't think this is "closed source garbage," this is more of a move so that nothing comes out and is protected.
 
 # Where to support me
 
