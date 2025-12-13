@@ -22,9 +22,9 @@ Credits to [ioquake](https://github.com/ioquake/ioq3) & [quake3e (For Vulkan sup
 
 - [x] **Fully Implemented Vulkan Support (Thank you q3e)**
 
-- [x] **OpenGL 1 & 2 Support**
+- [ ] **OpenGL 4.6 Support**
 
-- [ ] **SDL 2 Support**
+- [ ] **SDL 3 Support**
 
 - [x] **QVM (Quake Virtual Machine) Support** 
 
