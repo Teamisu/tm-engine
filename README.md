@@ -41,7 +41,7 @@ Credits to [ioquake](https://github.com/ioquake/ioq3) & [quake3e (For Vulkan sup
 
 - [ ] **Cross Platform Engine** ⚪ (Top Priority)
 
-- [ ] **The TM Engine Engine is gonna revolve around Singleplayer rather than MP like Q3:A**
+- [ ] **The TM Engine is gonna revolve around Singleplayer rather than MP like Q3:A**
 
 - [ ] **The engine's rendering will be unique from Q3, so it can load higher detailed models and textures**
 
