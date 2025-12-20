@@ -49,7 +49,7 @@ Credits to [ioquake](https://github.com/ioquake/ioq3) & [quake3e (For Vulkan sup
 
 # Contributing (After the engine is released)
 
-Anybody outside of the Teamisu/doomjuan sphere is welcomed to contribute, no matter your race, gender, politics, sex orientation, religion, furry, fairy, we do not care!
+Anybody outside of the Teamisu/doomjuan sphere is welcomed to contribute, no matter your race, gender, politics, sex orientation, religion, furry, fairy, we do not care! Heck we won't even ask as it isn't really our business.
 
 "I fucking despise FOSS projects being political in some form, like DEI for an example. I just want my projects to work reliably" -doomjuan
 
