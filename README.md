@@ -47,6 +47,12 @@ Credits to [ioquake](https://github.com/ioquake/ioq3) & [quake3e (For Vulkan sup
 
 - [ ] **A usable engine that anyone can use/modify with enough programming experience for said goals (Modding/Standalone Support)**
 
+# Contributing (After the engine is released)
+
+Anybody outside of the Teamisu/doomjuan sphere is welcomed to contribute, no matter your race, gender, politics, sex orientation, religion, furry, fairy, we do not care!
+
+"I fucking despise FOSS projects being political in some form, like DEI for an example. I just want my projects to work reliably" -doomjuan
+
 # License
 
 You might notice, that there is a proprietary license attached to this project. This is because the engine will not be open source in the current state it is in. It will be in the GPL2 license when everything is complete and documented. Please don't think this is "closed source garbage," this is more of a move so that nothing comes out and is protected.
